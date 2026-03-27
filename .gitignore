@@ -1,0 +1,16 @@
+# Virtual environments (MUST IGNORE)
+mypureenv/
+venv/
+env/
+
+# Python cache & System files
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Logs
+*.log

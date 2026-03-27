@@ -1,0 +1,6 @@
+Model             MAE     RMSE       R2
+----------------------------------------
+XGBoost        0.3497   0.4626   0.6005
+LSTM           0.6293   0.7301   0.0052
+
+Winner by MAE: XGBoost
