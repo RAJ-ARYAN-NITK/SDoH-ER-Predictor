@@ -1,9 +1,9 @@
 xgboost
 shap
-tensorflow
+tensorflow==2.15.1
 scikit-learn
 numpy
 pandas
 matplotlib
 streamlit
-keras
+keras==2.15.0
