@@ -197,7 +197,7 @@ from tensorflow.keras.models import load_model
 import shap
 
 # ── Config ─────────────────────────────────────────────────────────────────────
-PROCESSED_DIR = '/Users/rajaryan/Projects/ML/SDoH-ER-Predictor/data/processed/'
+PROCESSED_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'processed')
 
 st.set_page_config(
     page_title="SDoH Unemployment Predictor",
