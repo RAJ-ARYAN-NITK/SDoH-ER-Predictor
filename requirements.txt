@@ -7,15 +7,3 @@ pandas
 matplotlib
 streamlit
 keras
-fastapi
-uvicorn
-seaborn
-plotly
-scipy
-joblib
-requests
-python-dateutil
-pytz
-pillow
-tqdm
-pydeck
