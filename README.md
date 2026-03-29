@@ -2,9 +2,9 @@
 
 > Forecasting county-level unemployment as a public health stress indicator across 11 Massachusetts counties using 10 years of Social Determinants of Health (SDOH) data — built with XGBoost, LSTM, and SHAP explainability.
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://python.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-R²%3D0.9998-brightgreen)](https://xgboost.readthedocs.io)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-red)](https://streamlit.io)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
+[![XGBoost](https://img.shields.io/badge/XGBoost-R²%3D0.60-brightgreen)](https://xgboost.readthedocs.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-red)](https://sdoh-er-predictorgit-mhgx4s6sibltmvtcmbwuw3.streamlit.app/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ---
